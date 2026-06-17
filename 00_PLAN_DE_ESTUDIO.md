@@ -132,7 +132,7 @@
 | `01_DERECHO_ROMANO.md` | Derecho Romano | ✅ COMPLETO |
 | `02_ACTO_JURIDICO_PERSONAS_Y_BIENES.md` | Acto Jurídico, Personas y Bienes | ✅ COMPLETO |
 | `03_PERSPECTIVA_DE_GENERO.md` | Perspectiva de Género | ✅ COMPLETO |
-| `04_TEORIA_ECONOMICA.md` | Teoría Económica | ⏳ |
+| `04_TEORIA_ECONOMICA.md` | Teoría Económica | ✅ COMPLETO |
 | `05_TEORIA_DEL_ESTADO.md` | Teoría del Estado | ⏳ |
 | `06_HISTORIA_PENSAMIENTO_ECONOMICO.md` | Historia del Pensamiento Económico | ⏳ |
 
