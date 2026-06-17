@@ -278,3 +278,269 @@ Son los documentos públicos que dan fe. Principales:
 2. Creer que las actas se corrigen libremente (requieren sentencia/procedimiento).
 
 ### Nivel de importancia: ★★★☆☆
+
+
+---
+
+# UNIDAD V. BIENES
+
+**Objetivo particular (programa):** explicar el concepto y la clasificación de los bienes en el Código Civil.
+
+**Importancia: ★★★★☆.** (Conecta directamente con la Unidad III "Cosas" de tu examen de Derecho Romano.)
+
+## 5.1. Concepto de bien
+- **Bien:** toda cosa o derecho que puede ser objeto de apropiación y es susceptible de valoración económica (utilidad + apropiabilidad). Todo bien es cosa, pero no toda cosa es bien (el sol, el aire libre, no son apropiables).
+
+## 5.2. Clasificación de los bienes (📜 arts. 750 y ss. CCDMX/CCF)
+
+### A) Bienes muebles e inmuebles (la gran clasificación)
+- **Inmuebles** (📜 art. 750): el suelo y construcciones adheridas; lo unido de modo fijo; árboles y plantas mientras estén adheridos; estatuas y objetos puestos por el dueño con carácter permanente; **por destino** y **por disposición de la ley** (derechos reales sobre inmuebles).
+- **Muebles** (📜 arts. 752-759): los que pueden trasladarse por sí mismos (semovientes) o por fuerza exterior; **por determinación de la ley** (derechos y obligaciones, acciones); las cosas no consideradas inmuebles.
+
+### B) Por su titular (📜 arts. 764 y ss.)
+- **Bienes del dominio del poder público:** de uso común, destinados a un servicio público, y propios del Estado.
+- **Bienes de propiedad de los particulares.**
+
+### C) Bienes mostrencos y vacantes
+- **Mostrencos:** muebles abandonados o perdidos cuyo dueño se ignora.
+- **Vacantes:** inmuebles sin dueño cierto y conocido.
+
+### D) Otras clasificaciones (de raíz romana)
+- **Fungibles / no fungibles**; **consumibles / no consumibles** (📜 art. 763); **divisibles / indivisibles**; **principales / accesorios**; **corpóreos / incorpóreos**; **dentro / fuera del comercio** (📜 art. 748-749); **presentes / futuros**.
+
+> **Mnemotecnia:** la clasificación **mueble/inmueble** es la más importante porque de ella dependen: la forma de transmisión, la competencia, la prescripción y el régimen registral. *"Inmueble = se inscribe; mueble = circula".*
+
+### Relación profesional
+Para el abogado corporativo, distinguir mueble/inmueble define si una operación requiere **escritura pública e inscripción en el Registro Público de la Propiedad** (inmuebles) o no, y el régimen de garantías (hipoteca vs. prenda).
+
+### Errores comunes
+1. Confundir "cosa" con "bien" (el bien es la cosa apropiable y valuable).
+2. Olvidar los inmuebles **por destino** y **por disposición de la ley**.
+3. Confundir mostrencos (muebles) con vacantes (inmuebles).
+
+### Nivel de importancia: ★★★★☆
+
+
+---
+
+# UNIDAD VI. DERECHOS REALES
+
+**Objetivo particular (programa):** explicar el derecho real, en especial la propiedad y los derechos reales sobre cosa ajena.
+
+**Importancia: ★★★★★.** (Equivale a la Unidad de "derechos reales" del Romano, ahora en el Código Civil.)
+
+## 6.1. Concepto de derecho real y diferencia con el personal
+- **Derecho real:** poder jurídico directo e inmediato sobre un bien, oponible *erga omnes*.
+- **Derecho personal / de crédito:** facultad de exigir a una persona una prestación.
+
+| Criterio | Derecho real | Derecho personal |
+|---|---|---|
+| Objeto | Un bien | Una prestación (dar/hacer/no hacer) |
+| Sujeto pasivo | Universal | Determinado (deudor) |
+| Oponibilidad | *Erga omnes* | *Inter partes* |
+| Persecución/preferencia | Sí | No |
+
+## 6.2. La propiedad (📜 arts. 830 y ss. CCDMX/CCF)
+- **Concepto legal:** el propietario puede **usar, disfrutar y disponer** de sus bienes con las limitaciones y modalidades que fijen las leyes (📜 art. 830).
+- **Fundamento constitucional:** 📜 **art. 27 CPEUM** — la propiedad privada deriva de la propiedad originaria de la Nación; **función social** y modalidades por interés público.
+- **Caracteres:** generalidad, exclusividad, perpetuidad; pero **limitada** (función social, relaciones de vecindad, expropiación, modalidades).
+- **Modos de adquirir** en el Código: contrato, herencia, prescripción (usucapión), ocupación, accesión, adjudicación, ley.
+
+### La copropiedad (📜 arts. 938 y ss.)
+Cuando un bien pertenece a varios por **partes alícuotas** (cuotas ideales). Nadie está obligado a permanecer en la indivisión; cada copropietario puede pedir la **división** o, si es indivisible, la venta. Modalidad especial: **propiedad en condominio** (Ley de Propiedad en Condominio).
+
+## 6.3. Derechos reales sobre cosa ajena
+- **De goce:** **usufructo** (📜 arts. 980 y ss.: usar y disfrutar bien ajeno conservando su forma y sustancia), **uso**, **habitación** y **servidumbres** (📜 arts. 1057 y ss.: gravamen real sobre un inmueble en beneficio de otro; voluntarias y legales; continuas/discontinuas; aparentes/no aparentes).
+- **De garantía:** **prenda** (📜 arts. 2856 y ss.: mueble, con entrega) e **hipoteca** (📜 arts. 2893 y ss.: sin desposesión, sobre inmuebles, se inscribe en el RPP).
+
+> **Mnemotecnia (derechos reales del Código): "PRO-USU-USO-HAB-SERV-PREN-HIPO"** → Propiedad, Usufructo, Uso, Habitación, Servidumbre, Prenda, Hipoteca. (Los 2 últimos = garantía.)
+
+### Relación con Derecho Romano
+Es prácticamente el mismo catálogo romano (Unidad III de tu otro examen), ahora positivizado: *dominium* → propiedad; *usufructus/usus/habitatio* → idénticos; *servitutes* → servidumbres; *pignus/hypotheca* → prenda/hipoteca.
+
+### Errores comunes
+1. Confundir derecho real con personal.
+2. Atribuir al usufructuario la facultad de **disponer**.
+3. Confundir prenda (mueble, con entrega) e hipoteca (inmueble, sin desposesión, se inscribe).
+
+### Nivel de importancia: ★★★★★
+
+
+---
+
+# UNIDAD VII. POSESIÓN
+
+**Objetivo particular (programa):** explicar la posesión, sus clases, efectos y protección, y la usucapión.
+
+**Importancia: ★★★★★.**
+
+## 7.1. Concepto (📜 arts. 790 y ss. CCDMX/CCF)
+- **Posesión:** poder de hecho que se ejerce sobre una cosa (poseedor de cosa) o el goce de un derecho (poseedor de derecho). 📜 art. 790: *es poseedor de una cosa el que ejerce sobre ella un poder de hecho*.
+- Recoge la concepción romana (corpus + animus), aunque el Código mexicano sigue parcialmente la teoría de **Ihering** (basta el poder de hecho con apariencia de derecho) más que la de **Savigny** (exige animus domini).
+
+## 7.2. Clases de posesión
+- **Originaria y derivada** (📜 art. 791): quien posee a título de propietario (originaria) y quien posee en virtud de un derecho personal/real concedido por el dueño —arrendatario, usufructuario, depositario— (derivada).
+- **De buena fe / de mala fe** (📜 art. 806): de buena fe el que entra con justo título o cree tenerlo; de mala fe el que conoce los vicios de su título.
+- **Pacífica, continua, pública** (requisitos para usucapir) / viciosa (violenta, clandestina, discontinua).
+- **Posesión vs. detentación / servidor de la posesión.**
+
+## 7.3. Efectos de la posesión
+1. Presunción de propiedad (la posesión hace presumir la propiedad, salvo prueba en contrario).
+2. Protección mediante **interdictos** (acciones posesorias: de retener, de recuperar, de obra nueva y obra peligrosa).
+3. Derecho a los **frutos** (el poseedor de buena fe los hace suyos hasta la interrupción).
+4. Conduce a la **usucapión** (prescripción positiva).
+
+## 7.4. La usucapión / prescripción positiva (📜 arts. 1135, 1136, 1151 y ss.)
+- **Concepto:** medio de adquirir la propiedad por la **posesión** de un bien durante el tiempo y con las condiciones que fija la ley (📜 art. 1135 define la prescripción; la **positiva** es la adquisitiva).
+- **Requisitos** (📜 art. 1151): posesión en **concepto de propietario**, **pacífica**, **continua** y **pública**.
+- **Plazos** (📜 art. 1152): bienes **muebles** 3 años (buena fe) / 5 años (mala fe); bienes **inmuebles** 5 años (buena fe, justo título e inscrito) / 10 años en los demás casos (y hasta más si hay mala fe/violencia).
+
+> **Mnemotecnia (requisitos usucapión, Código): "Pro-Pa-Co-Pú"** → en concepto de **Pro**pietario, **Pa**cífica, **Co**ntinua, **Pú**blica. (Compárala con la regla romana "res habilis, titulus, fides, possessio, tempus".)
+
+### Caso práctico
+- *Juan posee una casa como propietario, de forma pacífica, continua y pública durante 5 años, con justo título inscrito y de buena fe.* → Puede demandar la **usucapión** y obtener sentencia que se inscribe en el RPP, convirtiéndose en propietario.
+
+### Errores comunes
+1. Confundir posesión originaria (propietario) con derivada (arrendatario).
+2. Olvidar los **cuatro** requisitos de la usucapión.
+3. Aplicar plazos de muebles a inmuebles (y viceversa).
+4. Confundir prescripción **positiva** (adquirir) con **negativa** (liberarse de obligaciones).
+
+### Nivel de importancia: ★★★★★
+
+
+---
+
+# BIBLIOGRAFÍA
+
+- **ROJINA VILLEGAS, Rafael**, *Derecho Civil Mexicano*, t. I (Introducción y Personas) y t. III (Bienes), Porrúa. / *Compendio de Derecho Civil*, t. I y II.
+- **GALINDO GARFIAS, Ignacio**, *Derecho Civil. Primer Curso*, Porrúa.
+- **DOMÍNGUEZ MARTÍNEZ, Jorge Alfredo**, *Derecho Civil. Parte general, personas, cosas, negocio jurídico e invalidez*, Porrúa.
+- **BORJA SORIANO, Manuel**, *Teoría General de las Obligaciones*, Porrúa (para acto jurídico y nulidades).
+- **GUTIÉRREZ Y GONZÁLEZ, Ernesto**, *Derecho de las Obligaciones* / *El patrimonio*, Porrúa.
+- **DE PINA, Rafael**, *Elementos de Derecho Civil Mexicano*, vol. I y II, Porrúa.
+- **Legislación:** Código Civil para la Ciudad de México; Código Civil Federal; Constitución (arts. 1 y 27).
+
+---
+
+# ✅ CHECKLIST FINAL
+
+- [ ] Concepto de Derecho Civil y los 4 Libros del Código.
+- [ ] Hecho vs. acto jurídico (la intención).
+- [ ] Elementos de existencia (VOS) y de validez (CALF).
+- [ ] Vicios del consentimiento (E-D-V-L) y la lesión.
+- [ ] Modalidades: condición (incierta) vs. plazo (cierto).
+- [ ] Ineficacias: inexistencia / nulidad absoluta / nulidad relativa (cuadro).
+- [ ] Persona física y moral; atributos (Na-Do-Es-Pa-Ca-Na).
+- [ ] Capacidad de goce/ejercicio y el modelo de apoyos (DDHH).
+- [ ] Registro Civil y actas (prueba plena del estado civil).
+- [ ] Clasificación de bienes (mueble/inmueble).
+- [ ] Derechos reales: propiedad (art. 830, 27 CPEUM), copropiedad, usufructo, servidumbres, prenda/hipoteca.
+- [ ] Posesión: clases, efectos, interdictos.
+- [ ] Usucapión: requisitos (Pro-Pa-Co-Pú) y plazos.
+
+
+---
+
+# 🎯 SIMULADOR DE EXTRAORDINARIO — ACTO JURÍDICO, PERSONAS Y BIENES
+
+> Resuélvelo en 2 horas. Respuestas correctas en **negritas**.
+
+## A) Opción múltiple (40)
+1. El Derecho Civil regula: a) los delitos; b) **a la persona, la familia y el patrimonio**; c) el comercio; d) la administración pública.
+2. El Código Civil se divide en Libros de: a) penas; b) **personas, bienes, sucesiones y obligaciones**; c) procedimientos; d) amparo.
+3. Acontecimiento sin intención de producir consecuencias jurídicas: a) acto jurídico; b) **hecho jurídico**; c) contrato; d) negocio.
+4. La intención de producir consecuencias de derecho caracteriza al: a) hecho natural; b) **acto jurídico**; c) delito; d) cuasicontrato.
+5. Son elementos de existencia: a) capacidad y forma; b) **voluntad, objeto y solemnidad**; c) licitud y forma; d) plazo y condición.
+6. Son elementos de validez: a) voluntad y objeto; b) **capacidad, ausencia de vicios, licitud y forma**; c) solo la forma; d) objeto y motivo.
+7. NO es vicio del consentimiento: a) error; b) dolo; c) violencia; d) **la forma**.
+8. La explotación de la ignorancia o miseria para un lucro desproporcionado es: a) dolo; b) **lesión**; c) error; d) violencia.
+9. El acto al que falta un elemento de existencia es: a) anulable; b) **inexistente**; c) válido; d) rescindible.
+10. La nulidad que SÍ se convalida por confirmación y prescripción es la: a) absoluta; b) **relativa**; c) inexistencia; d) total.
+11. La nulidad por objeto ilícito o de orden público es: a) relativa; b) **absoluta**; c) inexistencia; d) anulabilidad.
+12. Acontecimiento futuro e **incierto**: a) plazo; b) **condición**; c) término; d) modo.
+13. Acontecimiento futuro y **cierto**: a) condición; b) **plazo o término**; c) carga; d) vicio.
+14. La personalidad de la persona física se adquiere con: a) la mayoría de edad; b) **el nacimiento** (protegida desde la concepción); c) el matrimonio; d) la inscripción.
+15. NO es atributo de la persona moral: a) nombre; b) domicilio; c) **estado civil**; d) patrimonio.
+16. La capacidad de ejercicio plena se adquiere a los: a) 16; b) **18**; c) 21; d) 25 años.
+17. El conjunto de bienes, derechos y obligaciones valuables en dinero es el: a) domicilio; b) **patrimonio**; c) estado civil; d) nombre.
+18. Hace prueba plena del estado civil: a) la credencial; b) **el acta del Registro Civil**; c) un testigo; d) el INE.
+19. Las actas del Registro Civil se rectifican por: a) simple solicitud; b) **sentencia o procedimiento administrativo legal**; c) notario; d) nunca.
+20. El suelo y las construcciones adheridas son bienes: a) muebles; b) **inmuebles**; c) fungibles; d) mostrencos.
+21. Los bienes muebles abandonados de dueño desconocido son: a) vacantes; b) **mostrencos**; c) inmuebles; d) del Estado siempre.
+22. El poder directo sobre un bien oponible a todos es derecho: a) personal; b) **real**; c) de crédito; d) potestativo.
+23. El art. 830 CCF reconoce al propietario: a) solo usar; b) **usar, disfrutar y disponer**; c) solo disponer; d) poseer.
+24. La función social de la propiedad se funda en el artículo constitucional: a) 14; b) 16; c) **27**; d) 123.
+25. El usufructuario puede: a) **usar y disfrutar conservando la sustancia**; b) disponer; c) destruir; d) vender la nuda propiedad.
+26. Garantía real sobre inmueble, sin desposesión y que se inscribe: a) prenda; b) **hipoteca**; c) usufructo; d) servidumbre.
+27. Garantía real sobre mueble con entrega: a) hipoteca; b) **prenda**; c) servidumbre; d) uso.
+28. El poseedor a título de propietario es poseedor: a) derivado; b) **originario**; c) de mala fe; d) precario.
+29. El arrendatario es poseedor: a) originario; b) **derivado**; c) de mala fe; d) clandestino.
+30. La posesión se protege mediante: a) reivindicatoria; b) **interdictos (acciones posesorias)**; c) amparo; d) tercería.
+31. La prescripción que sirve para **adquirir** es la: a) negativa; b) **positiva (usucapión)**; c) liberatoria; d) extraordinaria.
+32. NO es requisito de la usucapión: a) pacífica; b) continua; c) pública; d) **secreta**.
+33. Plazo general de usucapión de inmueble de buena fe con justo título inscrito: a) 2 años; b) **5 años**; c) 10 años; d) 20 años.
+34. El concebido se considera nacido para lo que le favorece (art. 22). a) **Verdadero**; b) Falso.
+35. El dolo que vicia el consentimiento es el: a) incidental; b) **determinante**; c) bueno; d) leve.
+36. La copropiedad implica: a) un solo dueño; b) **varios dueños por partes alícuotas**; c) usufructo; d) servidumbre.
+37. Nadie está obligado a permanecer en la indivisión: se puede pedir la: a) hipoteca; b) **división de la cosa común**; c) prenda; d) expropiación.
+38. La servidumbre es un derecho real sobre: a) muebles; b) **un inmueble en beneficio de otro**; c) créditos; d) personas.
+39. La teoría posesoria que basta el poder de hecho con apariencia de derecho es de: a) Savigny; b) **Ihering**; c) Kelsen; d) Planiol.
+40. La forma exigida por la ley es elemento de: a) existencia; b) **validez**; c) modalidad; d) ineficacia total.
+
+## B) Preguntas abiertas (10)
+41. Distingue hecho y acto jurídico con ejemplos.
+42. Explica los elementos de existencia y de validez del acto jurídico (cita artículos).
+43. Desarrolla los vicios del consentimiento.
+44. Compara inexistencia, nulidad absoluta y nulidad relativa (cuadro).
+45. Enumera y explica los atributos de la persona física.
+46. Explica la capacidad y el modelo de apoyos y salvaguardias (DDHH).
+47. Clasifica los bienes conforme al Código Civil.
+48. Diferencia derecho real y derecho personal; enumera los derechos reales.
+49. Explica la posesión, sus clases y su protección.
+50. Desarrolla la usucapión: concepto, requisitos y plazos.
+
+## C) Casos prácticos (5)
+51. *Se vende una casa, pero el vendedor amenazó de muerte al comprador para que firmara.* ¿Qué vicio hay y qué tipo de ineficacia procede? (Violencia → nulidad relativa, arts. 1819, 2228.)
+52. *Una persona compra un terreno creyendo que tiene 1,000 m² cuando tiene 100; ese dato fue determinante y se expresó.* ¿Procede la nulidad? (Error nulidad, art. 1813.)
+53. *Juan posee un inmueble como propietario, pacífica, continua y públicamente por 5 años, de buena fe y con título inscrito.* ¿Qué acción ejercita y qué obtiene? (Usucapión, arts. 1151-1152.)
+54. *Dos hermanos heredan en común una casa y uno ya no quiere seguir en copropiedad.* ¿Qué puede hacer? (Pedir la división; si es indivisible, la venta — art. 939-940.)
+55. *Un contrato tiene objeto contrario a una ley de orden público.* ¿Qué nulidad procede y por qué no se convalida? (Nulidad absoluta, arts. 2225-2226.)
+
+## D) Respuesta modelo (pregunta 44) — nivel 10
+> La ineficacia del acto jurídico se gradúa en tres niveles. La **inexistencia** (art. 2224) ocurre cuando falta un **elemento de existencia** —voluntad, objeto o solemnidad—; el acto no produce efecto alguno, no es confirmable ni prescriptible y puede invocarla cualquiera. La **nulidad absoluta** (art. 2226) deriva, por regla, de la **ilicitud** o de la violación de una ley de orden público; el acto produce **provisionalmente** sus efectos, que se destruyen retroactivamente al declararse, y no se convalida por confirmación ni por prescripción, pudiendo invocarla todo interesado. La **nulidad relativa** (arts. 2227-2228) procede por **vicios del consentimiento, incapacidad o falta de forma**; a diferencia de la absoluta, **sí es confirmable y prescriptible** y, en principio, solo la hace valer la parte perjudicada. La nota distintiva, pues, es que la nulidad relativa se "rescata" y las otras dos no.
+
+
+---
+
+# ⏱️ GUÍAS DE REPASO
+
+## Repaso de 24 horas
+- **(4 h)** Unidad II completa: hecho/acto, elementos (VOS/CALF), vicios (E-D-V-L), nulidades (cuadro). Es el 40% del examen.
+- **(3 h)** Personas y atributos + Registro Civil.
+- **(3 h)** Bienes + Derechos reales + Posesión y usucapión (apóyate en lo que ya sabes de Romano).
+- **(2 h)** Simulador cronometrado + repaso de artículos ancla.
+
+## Repaso de 3 horas
+1. **(60 min)** Memoriza artículos ancla: 1794-1795 (elementos), 1812-1819 (vicios), 2224-2228 (ineficacias), 22 (personalidad), 830 + 27 CPEUM (propiedad), 1151-1152 (usucapión).
+2. **(60 min)** Cuadros: existencia/validez; inexistencia/nulidad abs./rel.; real/personal.
+3. **(60 min)** Opción múltiple del simulador.
+
+## Lo indispensable en 2 horas
+1. **Hecho** (sin intención) vs. **acto** (con intención).
+2. **Existencia: VOS** (Voluntad, Objeto, Solemnidad). **Validez: CALF** (Capacidad, Ausencia de vicios, Licitud, Forma).
+3. **Vicios: E-D-V-L** (Error, Dolo/mala fe, Violencia, Lesión).
+4. **Ineficacias:** inexistencia (falta existencia), nulidad absoluta (ilícito, no se convalida), nulidad relativa (vicios/incapacidad/forma, **sí** se convalida).
+5. **Atributos:** Nombre, Domicilio, Estado civil, Patrimonio, Capacidad, Nacionalidad (la moral no tiene estado civil).
+6. **Capacidad:** goce (todos) / ejercicio (18 años).
+7. **Bienes:** mueble vs. inmueble.
+8. **Derechos reales:** propiedad (usar/disfrutar/disponer, art. 830; función social art. 27), usufructo, servidumbre, prenda (mueble), hipoteca (inmueble).
+9. **Posesión:** originaria/derivada; buena/mala fe; se protege con interdictos.
+10. **Usucapión:** en concepto de propietario, pacífica, continua, pública (Pro-Pa-Co-Pú); inmueble 5 años (buena fe).
+
+> **Recuerda:** cita el artículo siempre que puedas. Estructura D-C-F-E-C.
+
+---
+
+> 📗 **FIN DEL LIBRO 2 — ACTO JURÍDICO, PERSONAS Y BIENES.** Cubre las 7 unidades del programa (clave 1205).
+> Siguiente bloque: **Perspectiva de Género** y **Teoría Económica** (examen miércoles 24).
