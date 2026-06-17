@@ -133,7 +133,7 @@
 | `02_ACTO_JURIDICO_PERSONAS_Y_BIENES.md` | Acto Jurídico, Personas y Bienes | ✅ COMPLETO |
 | `03_PERSPECTIVA_DE_GENERO.md` | Perspectiva de Género | ✅ COMPLETO |
 | `04_TEORIA_ECONOMICA.md` | Teoría Económica | ✅ COMPLETO |
-| `05_TEORIA_DEL_ESTADO.md` | Teoría del Estado | ⏳ |
+| `05_TEORIA_DEL_ESTADO.md` | Teoría del Estado | ✅ COMPLETO |
 | `06_HISTORIA_PENSAMIENTO_ECONOMICO.md` | Historia del Pensamiento Económico | ⏳ |
 
 > Los manuales se desarrollan **en el orden del calendario**. Al terminar uno, continúo automáticamente con el siguiente.
