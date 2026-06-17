@@ -134,6 +134,6 @@
 | `03_PERSPECTIVA_DE_GENERO.md` | Perspectiva de Género | ✅ COMPLETO |
 | `04_TEORIA_ECONOMICA.md` | Teoría Económica | ✅ COMPLETO |
 | `05_TEORIA_DEL_ESTADO.md` | Teoría del Estado | ✅ COMPLETO |
-| `06_HISTORIA_PENSAMIENTO_ECONOMICO.md` | Historia del Pensamiento Económico | ⏳ |
+| `06_HISTORIA_PENSAMIENTO_ECONOMICO.md` | Historia del Pensamiento Económico | ✅ COMPLETO |
 
 > Los manuales se desarrollan **en el orden del calendario**. Al terminar uno, continúo automáticamente con el siguiente.
